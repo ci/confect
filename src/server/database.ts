@@ -62,7 +62,7 @@ import {
   type TableNamesInConfectSchema,
 } from "./schema";
 import {
-  ExtendWithSystemFields,
+  type ExtendWithSystemFields,
   extendWithSystemFields,
 } from "./schemas/SystemFields";
 
